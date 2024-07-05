@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
-mx: Priority 5: SMTP.GOOGLE.COM
+mx: Priority: SMTP.GOOGLE.COM
 mx: Priority 5: ALT1.ASPMX.L.GOOGLE.COM
 mx: Priority 5: ALT2.ASPMX.L.GOOGLE.COM
 mx: Priority 10: ALT3.ASPMX.L.GOOGLE.COM
